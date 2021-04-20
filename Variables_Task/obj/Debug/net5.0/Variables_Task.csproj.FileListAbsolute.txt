@@ -1,0 +1,16 @@
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\Variables_Task.exe
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\Variables_Task.deps.json
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\Variables_Task.runtimeconfig.json
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\Variables_Task.runtimeconfig.dev.json
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\Variables_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\ref\Variables_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\bin\Debug\net5.0\Variables_Task.pdb
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.csprojAssemblyReference.cache
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.AssemblyInfoInputs.cache
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.AssemblyInfo.cs
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.csproj.CoreCompileInputs.cache
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\ref\Variables_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.pdb
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Variables_Task\obj\Debug\net5.0\Variables_Task.genruntimeconfig.cache
