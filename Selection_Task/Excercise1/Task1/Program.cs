@@ -21,11 +21,6 @@ namespace Selection_Task
             } else { 
                 Console.WriteLine("Legally Not Adult Age");
             }
-
-
-
-
-
         }
     }
 }
