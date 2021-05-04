@@ -11,8 +11,6 @@ namespace Task1
             Console.WriteLine("Type username: ");
             user = Console.ReadLine();
 
-            if()
-
             
         }
     }
