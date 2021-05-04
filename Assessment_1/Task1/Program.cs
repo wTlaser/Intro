@@ -1,13 +1,12 @@
-using System; 
+﻿using System;
 
-namespace MyApplication
+namespace Assessment_1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            do
+            int i = 0;do
             {
                 Console.WriteLine(i);
                 i++;

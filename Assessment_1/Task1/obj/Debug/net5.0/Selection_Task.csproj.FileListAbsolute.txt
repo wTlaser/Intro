@@ -1,0 +1,16 @@
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\Selection_Task.exe
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\Selection_Task.deps.json
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\Selection_Task.runtimeconfig.json
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\Selection_Task.runtimeconfig.dev.json
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\Selection_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\ref\Selection_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\bin\Debug\net5.0\Selection_Task.pdb
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.csprojAssemblyReference.cache
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.AssemblyInfoInputs.cache
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.AssemblyInfo.cs
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.csproj.CoreCompileInputs.cache
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\ref\Selection_Task.dll
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.pdb
+C:\Users\wtoh1\Onedrive\Documents\GitHub\Intro\Selection_Task\obj\Debug\net5.0\Selection_Task.genruntimeconfig.cache
