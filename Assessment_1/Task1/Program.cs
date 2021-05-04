@@ -11,6 +11,10 @@ namespace Assessment_1
             {
                 Console.WriteLine(roll);
                 Console.ReadLine();
+                {
+                    while (i > 6);
+                    Console.WriteLine(i);
+                }
             }
         }
     }
