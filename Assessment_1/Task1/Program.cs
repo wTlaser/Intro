@@ -6,12 +6,12 @@ namespace Assessment_1
     {
         static void Main(string[] args)
         {
-            int i = 0;do
+            int i = 1;
+            while (i > 6);
             {
-                Console.WriteLine(i);
-                i++;
+                Console.WriteLine(roll);
+                Console.ReadLine();
             }
-            while (i < 5);
         }
     }
 }

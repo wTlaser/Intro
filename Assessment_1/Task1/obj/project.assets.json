@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wtoh1\\Onedrive\\Documents\\GitHub\\Intro\\Selection_Task\\Selection_Task.csproj",
+      "projectUniqueName": "C:\\Users\\wtoh1\\Onedrive\\Documents\\GitHub\\Intro\\Assessment_1\\Task1\\Selection_Task.csproj",
       "projectName": "Selection_Task",
-      "projectPath": "C:\\Users\\wtoh1\\Onedrive\\Documents\\GitHub\\Intro\\Selection_Task\\Selection_Task.csproj",
+      "projectPath": "C:\\Users\\wtoh1\\Onedrive\\Documents\\GitHub\\Intro\\Assessment_1\\Task1\\Selection_Task.csproj",
       "packagesPath": "C:\\Users\\wtoh1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wtoh1\\Onedrive\\Documents\\GitHub\\Intro\\Selection_Task\\obj\\",
+      "outputPath": "C:\\Users\\wtoh1\\Onedrive\\Documents\\GitHub\\Intro\\Assessment_1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wtoh1\\AppData\\Roaming\\NuGet\\NuGet.Config"
