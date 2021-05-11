@@ -9,7 +9,7 @@ namespace Assessment_1
             int i = 1;
             while (i > 6);
             {
-                Console.WriteLine(roll);
+                Console.WriteLine("roll");
                 Console.ReadLine();
                 {
                     while (i > 6);
